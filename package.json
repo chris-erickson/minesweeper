@@ -43,7 +43,7 @@
   },
   "peerDependencies": {
     "prop-types": "^15.6 || ^16",
-    "react": "^16",
+    "react": "^16 || ^17.0.0",
     "rxjs": "^6.1.0"
   },
   "dependencies": {
